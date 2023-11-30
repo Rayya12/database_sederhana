@@ -1,3 +1,4 @@
+# program untuk membuat database sederhana
 import os
 import package
 import time
